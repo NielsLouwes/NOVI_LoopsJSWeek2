@@ -13,6 +13,7 @@ const names = ["Henk", "Piet", "Fred", "Joop"];
 // console.log(names) geeft: ["Henkje", "Pietje", "Fredje", "Joopje"]
 
 
+
 // ==========================================
 // Opdracht 2
 // Schrijf een script dat ieder getal in bovenstaande array met 3 vermenigvuldigd.
