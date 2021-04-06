@@ -5,12 +5,17 @@
 // ==========================================
 
 const names = ["Henk", "Piet", "Fred", "Joop"];
+ names.forEach(names => console.log(names, names + "je"));
+
+
+
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
 // console.log(names) geeft: ["Henk", "Piet", "Fred", "Joop"]
 // Na jouw script zie je de aangepaste waardes:
 // console.log(names) geeft: ["Henkje", "Pietje", "Fredje", "Joopje"]
+
 
 
 
@@ -21,6 +26,8 @@ const names = ["Henk", "Piet", "Fred", "Joop"];
 // ==========================================
 
 const numbers = [2, 4, 5, 29, 38];
+    console.log(numbers);
+    numbers.forEach(numbers => console.log(numbers * 3));
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
@@ -37,6 +44,7 @@ const numbers = [2, 4, 5, 29, 38];
 // ==========================================
 
 const squares = [30, 2, 8, 24, 11];
+    squares.forEach(squares => console.log(squares, squares * squares * squares));
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
