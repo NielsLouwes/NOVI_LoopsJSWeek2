@@ -23,7 +23,8 @@ for (let index = 0; index < 3; index++) {
 
 for (let index = 0; index < 4; index++) {
     console.log("loop...")
-} console.log("klaar!")
+    console.log("klaar!")
+}
 
 // ==========================================
 // Opdracht 3. Maak een for-loop die van 0 tot 15 loopt. Voor ieder getal wordt in de console gelogd of het getal even of oneven is.
