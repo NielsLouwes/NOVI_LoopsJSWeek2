@@ -39,7 +39,6 @@ for (let i = 0; i < numbers.length; i++){
 
 
 // ALTERNATIVE OPTIONS
-// console.log(numbers);
 // numbers.forEach(numbers => console.log(numbers * 3));
 
 // Verwachtte uitkomsten:
